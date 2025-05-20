@@ -1,0 +1,102 @@
+
+body {
+    /* Dimensions */
+    min-height: 100vh;
+    width: 100vw;
+    
+    /* Couleur de base */
+    background: #e0e5ec;
+    
+    /* Effet NEUMORPHIQUE QUI RESSORT (inversé) */
+    box-shadow: 
+        /* Ombres externes PLUS FORTES en bas/droite */
+        30px 30px 60px #a3b1c6,
+        /* Ombres externes PLUS FAIBLES en haut/gauche */
+        -10px -10px 30px #ffffff,
+        
+        /* Ombres internes TRÈS SUBTILES */
+        inset 2px 2px 5px rgba(163,177,198,0.3),
+        inset -2px -2px 5px rgba(255,255,255,0.5);
+    
+    /* Arrondi modéré */
+    border-radius: 20px;
+    
+    /* Marge pour voir l'effet */
+    margin: 25px;
+    padding: 30px;
+    
+    /* Empêche le débordement */
+    box-sizing: border-box;
+    
+    /* Typographie de base */
+    font-family: system-ui, sans-serif;
+    color: #4a5568;
+}
+
+
+.header-bar {
+    background: #4a5568; /* Gris foncé */
+    color: white;
+    padding: 15px 30px;
+    width: calc(100% - 50px); 
+    margin: -25px auto 25px -25px;
+    border-radius: 20px 20px 0 0; 
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    z-index: 10;
+}
+
+.header-title {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.header-info {
+    background: rgba(255,255,255,0.1);
+    padding: 5px 15px;
+    border-radius: 15px;
+    font-size: 0.9em;
+}
+
+.categorie{
+    background-color: rgba(50, 50, 50, 0.3);
+    color: white;
+    padding: 5px 15px;
+    border-radius: 15px;
+    font-size: 0.9em;
+    width: calc(18% - 50px); 
+}
+
+button{
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 20px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 120px;
+    height: 60px;
+    border-radius: 5px;
+}
+
+button:hover{
+    color: rgb(219, 218, 218);
+    background-color: #078b5b;
+}
+
+.proportional-square {
+            width: 33.33vw; /* 1/3 de la largeur du viewport */
+            height: 10vh; /* 1/10 de la hauteur du viewport */
+            background-color: #4a5568;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+}
