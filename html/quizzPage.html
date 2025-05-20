@@ -8,27 +8,30 @@
 </head>
 
 <body class = "quizz-container">
-    <div class="header-bar">
-    <div class="header-title">Queezie</div>
-    <div class="header-info">Anthony Varela Louis Demoy</div>
-</div>
+    <div class="header-bar">       
+      <p class="header-title">Queezie</p>
+        <nav>
+            <a href=./home.html>Home</a>
+            <a href=./about.html>About</a>
+        </nav>
+        <p class="header-info">Anthony Varela Louis Demoy</p>
+    </div>
 
-<div class="categorie">Categorie</div>
-
-    <nav>
-        <a href=./home.html>Home</a>
-        <a href=./about.html>About</a>
-    </nav>
+    <div class = flex-container>
+        <p class="categorie"> Category</p>
+        <p>Question 1/10</p>
+    </div>
+    
 
     <script src="quizz.js"></script>
 
-    <h1>Question</h1>
+    <h1 id = "question">Question</h1>
     <div class="proportional-square"> Image related to question</div>
     <br>
+    <div class = "buttons">
     <button class="button" id="button1">Réponse 1</button>
     <button class="button" id="button2">Réponse 2</button>
-    <br>
-    <br>
     <button class="button" id="button3">Réponse 3</button>
     <button class="button" id="button4">Réponse 4</button>
+    </div>
 </body>
