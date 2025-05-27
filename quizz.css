@@ -33,22 +33,17 @@ body {
     color: #4a5568;
 }
 
-nav{
-    padding: 10px;
-    font-size: large;
-    background-color: #c6baa9;
-}
-
 a{
+    padding: 10px;
+    font-size: 1.1em;
     text-decoration-line: none;
-    color: #ffebcd;
+    color: white;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 a:hover{
-    color: #e7d5ba;
+    color: #dfdfdf;
 }
-
 
 .header-bar {
     background: #4a5568; /* Gris foncé */
