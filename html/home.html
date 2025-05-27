@@ -3,45 +3,60 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Web Page</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Queezie</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="../js/category.js" defer></script>
 </head>
 
 <body>
 
-    <h1>Queezie</h1>
+    <header>
+        <div class="header-bar">
+            <div class="header-title">Queezie</div>
 
-    <nav>
-        <a href=./home.html>Home</a>
-        <a href=./about.html>About</a>
-    </nav>
-
+            <nav>
+            <a href=./home.html>Home</a>
+            <a href=./quizPage.html> Quiz</a>
+            <a href=./about.html>About</a>
+            </nav>
+            
+            <div class="header-info">Anthony Varela Louis Demoy</div>
+        </div>
+    </header>
+    
     <div >
         <h2>Category Selection</h2>
-        <table>
+        <table class = 'category'>
             <tr>
                 <td>
-                    <button>Animal</button>
-                    <button>Art</button>
-                    <button>Cinema</button>
-                    <button>Economic</button>
-                    <button>Geography</button>
+                    <button id="button-1">Animal</button>
+                    <button id="button-2">Art</button>
+                    <button id="button-3">Cinema</button>
+                    <button id="button-4">Economic</button>
+                    <button id="button-5">Geography</button>
                 </td>
             </tr>
             <tr>
                 <td>
-                    <button>History</button>
-                    <button>Music</button>
-                    <button>Politic</button>
-                    <button>Medicine</button>
-                    <button>Vegetable</button>
+                    <button id="button-6">History</button>
+                    <button id="button-7">Music</button>
+                    <button id="button-8">Politic</button>
+                    <button id="button-9">Medicine</button>
+                    <button id="button-10">Vegetable</button>
                 </td>
             </tr>
         </table>
-
+    </div>
+    
+    <section>
         <p>Choose the category you which to explore.</p>
         <p>The difficulty of the question can vary a lot.</p>
         <p>Take your time when needed.</p>
-    </div>
-</body>
+    </section>
+
+        <footer>
+            <small><p>©️2025 Queezie.</p>
+            <p>All rights reserved.</p></small>
+        </footer>
+    </body>
 </html>

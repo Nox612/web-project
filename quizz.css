@@ -2,6 +2,7 @@
 body {
     /* Dimensions */
     min-height: 100vh;
+
     width: 90vw;
     
     /* Couleur de base */
@@ -34,11 +35,14 @@ body {
 }
 
 
+
+
 .header-bar {
     background: #4a5568; /* Gris foncé */
     color: white;
     padding: 15px 30px;
     width: calc(100% - 10px); 
+
     margin: -25px auto 25px -25px;
     border-radius: 20px 20px 0 0; 
     box-shadow: 0 5px 15px rgba(0,0,0,0.2);
@@ -61,8 +65,10 @@ body {
     font-size: 0.9em;
 }
 
+
 .categorie {
     background-color: rgba(100, 100, 100, 0.3);
+
     color: white;
     padding: 5px 15px;
     border-radius: 15px;
@@ -70,6 +76,7 @@ body {
     display: inline-block; /* Permet à l'élément de s'adapter au contenu */
     white-space: nowrap; /* Empêche le texte de passer à la ligne */
     width: auto; /* Largeur basée sur le contenu (par défaut) */
+
 }
 
 button{
@@ -93,6 +100,10 @@ button{
     gap: 20px;
 }
 
+
+}
+
+
 button:hover{
     color: rgb(219, 218, 218);
     background-color: #078b5b;
@@ -101,6 +112,7 @@ button:hover{
 .proportional-square {
             width: 33.33vw; /* 1/3 de la largeur du viewport */
             height: 20vh; /* 1/10 de la hauteur du viewport */
+
             background-color: #4a5568;
             border-radius: 8px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -131,5 +143,8 @@ a:hover{
 
 #question{
     text-align: center;
+}
+
+
 }
 
