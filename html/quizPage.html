@@ -15,6 +15,7 @@
             <nav>
             <a href=./home.html>Home</a>
             <a href=./quizPage.html> Quiz</a>
+            
             <a href=./about.html>About</a>
             </nav>
             
@@ -23,16 +24,37 @@
     </header>
 
 <div class="categorie">Categorie</div>
+    <div class="question">
+        <script src="quizz.js"></script>
 
-    <script src="quizz.js"></script>
+        <h1>Question</h1>
+        <div class="proportional-square"> Image related to question</div>
+        <br>
+        <button id="option-1">Réponse 1</button>
+        <button id="option-2">Réponse 2</button>
+        <br>
+        <br>
+        <button id="option-3">Réponse 3</button>
+        <button id="option-4">Réponse 4</button>
+    </div>
 
-    <h1>Question</h1>
-    <div class="proportional-square"> Image related to question</div>
-    <br>
-    <button class="button" id="button1">Réponse 1</button>
-    <button class="button" id="button2">Réponse 2</button>
-    <br>
-    <br>
-    <button class="button" id="button3">Réponse 3</button>
-    <button class="button" id="button4">Réponse 4</button>
-</body>
+    <table>
+        <thead>
+            <tr>
+                <th>Score</th>
+                <th>Precision</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td id="score-value">0</td>
+                <td id="precision-value">0%</td>
+            </tr>
+        </tbody>
+    </table>
+    </body>
+    <footer>
+                <small><p>©️2025 Queezie.</p>
+                <p>All rights reserved.</p></small>
+    </footer>
+</html>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Queezie</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    <script src="../js/category.js" defer></script>
+</head>
+
+<body>
+
+    <header>
+        <div class="header-bar">
+            <div class="header-title">Queezie</div>
+
+            <nav>
+            <a href=./home.html>Home</a>
+            <a href=./quizPage.html> Quiz</a>
+            <a href=./wiki.html>Wiki</a>
+            <a href=./login.html>Login</a>
+            <a href=./about.html>About</a>
+            </nav>
+            
+            <div class="header-info">Anthony Varela Louis Demoy</div>
+        </div>
+    </header>
+    <main class="login-container">
+        <h2>Login</h2>
+        <form action="/login" method="post" class="login-form">
+            <label for="username">Username</label>
+            <input type="text" id="username" name="username" required autocomplete="username">
+
+            <label for="password">Password</label>
+            <input type="password" id="password" name="password" required autocomplete="current-password">
+
+            
+        </form>
+
+        <button type="submit" id="form-button">Login</button>
+        <p>Don't have an account? <a href="./register.html" id="form-button">Register</a></p>
+    </main>
+
+    <footer>
+        <small><p>©️2025 Queezie.</p>
+        <p>All rights reserved.</p></small>
+    </footer>
+</body>
