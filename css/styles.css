@@ -1,39 +1,22 @@
-body{
-    /* Dimensions */
+body {
     min-height: 100vh;
     width: 100vw;
-    
-    /* Couleur de base */
     background: #e0e5ec;
-    
-    /* Effet NEUMORPHIQUE QUI RESSORT (inversé) */
     box-shadow: 
-        /* Ombres externes PLUS FORTES en bas/droite */
         30px 30px 60px #a3b1c6,
-        /* Ombres externes PLUS FAIBLES en haut/gauche */
         -10px -10px 30px #ffffff,
-        
-        /* Ombres internes TRÈS SUBTILES */
         inset 2px 2px 5px rgba(163,177,198,0.3),
         inset -2px -2px 5px rgba(255,255,255,0.5);
-    
-    /* Arrondi modéré */
     border-radius: 20px;
-    
-    /* Marge pour voir l'effet */
     margin: 25px;
     padding: 30px;
-    
-    /* Empêche le débordement */
     box-sizing: border-box;
-    
-    /* Typographie de base */
     font-family: system-ui, sans-serif;
     color: #4a5568;
 }
 
 .header-bar {
-    background: #4a5568; /* Gris foncé */
+    background: #4a5568;
     color: white;
     padding: 15px 30px;
     width: calc(100% - 50px); 
@@ -59,157 +42,107 @@ body{
     font-size: 0.9em;
 }
 
-a{
+a {
     background-color: #414b5b;
     border-radius: 5px;
     padding: 10px 10px;
     margin: 0 50px;
-    font-size:150%;
-    text-decoration-line: none;
+    font-size: 150%;
+    text-decoration: none;
     color: white;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-a:hover{
+a:hover {
     color: #dfdfdf;
     background-color: #21272f;
 }
 
-div{
+div {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-table{
+table {
     margin: auto;
 }
 
-button{
+button {
     border: none;
     color: white;
-    padding: 10px 10px;
+    padding: 10px;
     text-align: center;
-    text-decoration: none;
     display: inline-block;
     font-size: 16px;
     width: 120px;
     height: 60px;
     border-radius: 5px;
+    margin: 5px;
+    font-family: inherit;
+    cursor: pointer;
 }
 
-button:hover{
-    color: rgb(227, 227, 227);
-}
+/* Couleurs des boutons catégorie */
 
+#button-1 { background-color: #04AA6D; }
+#button-2 { background-color: #2196F3; }
+#button-3 { background-color: #f44336; }
+#button-4 { background-color: #ff9800; }
+#button-5 { background-color: #9c27b0; }
+#button-6 { background-color: #00bcd4; }
+#button-7 { background-color: #8bc34a; }
+#button-8 { background-color: #ffc107; }
+#button-9 { background-color: #607d8b; }
+#button-10 { background-color: #91415c; }
 
-#button-1{
-    background-color: #04AA6D;
-}
+#button-1:hover { background-color: #038e5c; }
+#button-2:hover { background-color: #1976c5; }
+#button-3:hover { background-color: #c62828; }
+#button-4:hover { background-color: #c77700; }
+#button-5:hover { background-color: #6d1b7b; }
+#button-6:hover { background-color: #008a9e; }
+#button-7:hover { background-color: #689f38; }
+#button-8:hover { background-color: #c79100; }
+#button-9:hover { background-color: #455a64; }
+#button-10:hover { background-color: #6d3147; }
 
-#button-2{
-    background-color: #2196F3;
-}
-
-#button-3{
-    background-color: #f44336;
-}
-
-#button-4{
-    background-color: #ff9800;
-}
-
-#button-5{
-    background-color: #9c27b0;
-}
-
-#button-6{
-    background-color: #00bcd4;
-}
-
-#button-7{
-    background-color: #8bc34a;
-}
-
-#button-8{
-    background-color: #ffc107;
-}
-
-#button-9{
-    background-color: #607d8b;
-}
-
-#button-10{
-    background-color: #91415c;
-}
-
-#button-1:hover {
-    background-color: #038e5c;
-}
-#button-2:hover {
-    background-color: #1976c5;
-}
-#button-3:hover {
-    background-color: #c62828;
-}
-#button-4:hover {
-    background-color: #c77700;
-}
-#button-5:hover {
-    background-color: #6d1b7b;
-}
-#button-6:hover {
-    background-color: #008a9e;
-}
-#button-7:hover {
-    background-color: #689f38;
-}
-#button-8:hover {
-    background-color: #c79100;
-}
-#button-9:hover {
-    background-color: #455a64;
-}
-#button-10:hover {
-    background-color: #6d3147;
-}
-
-
-
-section{
-    line-height: 0.4;
+section {
+    line-height: 1.5;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    border: solid;
+    border: solid 2px #4a5568;
     border-radius: 20px;
     text-align: center;
-    margin: 20px;
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 700px;
+    background-color: #f4f6f8;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.05);
 }
 
-footer{
-    line-height: 10px;
+footer {
+    line-height: 1.4;
     text-align: center;
     padding: 50px;
+    font-size: 0.9em;
 }
 
-#form-button{
+#form-button {
     color: #008a9e;
     background-color: #00bcd4;
     padding: 5px 15px;
     font-size: 14px;
-    width: auto;
-    height: auto;
+    border-radius: 5px;
     margin: 1px;
+    border: none;
 }
 
-#form-button:hover{
+#form-button:hover {
     color: #01798c;
     background-color: #02a7bc;
 }
 
-.register-form{
+.register-form,
+.login-form {
     display: flex;
     flex-direction: column;
-}
-
-.login-form{
-    display: flex;
-    flex-direction: column;
+    gap: 10px;
 }
