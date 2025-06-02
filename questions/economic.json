@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which mammal is known to have the most powerful bite?",
+    "answers": [
+      "Lion",
+      "Tiger",
+      "Hippopotamus",
+      "Crocodile"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which economic is the largest species of cat?",
+    "answers": [
+      "Leopard",
+      "Cheetah",
+      "Lion",
+      "Tiger"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the fastest land economic?",
+    "answers": [
+      "Horse",
+      "Ostrich",
+      "Cheetah",
+      "Greyhound"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What economic is known for changing its color?",
+    "answers": [
+      "Frog",
+      "Chameleon",
+      "Iguana",
+      "Salamander"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which bird is a symbol of peace?",
+    "answers": [
+      "Swan",
+      "Dove",
+      "Parrot",
+      "Eagle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a group of lions called?",
+    "answers": [
+      "Herd",
+      "Pack",
+      "Pride",
+      "Colony"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which economic sleeps standing up?",
+    "answers": [
+      "Cow",
+      "Horse",
+      "Elephant",
+      "Dog"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which mammal lays eggs?",
+    "answers": [
+      "Bat",
+      "Otter",
+      "Platypus",
+      "Whale"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the only flying mammal?",
+    "answers": [
+      "Squirrel",
+      "Bat",
+      "Flying Lemur",
+      "None"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the tallest economic?",
+    "answers": [
+      "Elephant",
+      "Giraffe",
+      "Camel",
+      "Rhino"
+    ],
+    "correctIndex": 1
+  }
+]
