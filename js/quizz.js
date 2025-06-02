@@ -10,7 +10,7 @@ window.addEventListener("DOMContentLoaded", async () => {
     try {
         const response = await fetch(`../questions/${category}.json`);
         let questions = await response.json();
-        questions = questions.sort(() => 0.5 - Math.random()).slice(0, 10);
+        questions = questions.sort(() => 0.5 - Math.random()).slice(0, 5);
 
         let current = 0;
         let score = 0;
@@ -50,7 +50,6 @@ window.addEventListener("DOMContentLoaded", async () => {
 
         updateQuestion();
     } catch (err) {
-        console.error("Erreur de chargement :", err);
         document.getElementById("question").textContent = "Erreur de chargement.";
     }
 });
