@@ -1,101 +1,101 @@
 [
   {
-    "question": "Which mammal is known to have the most powerful bite?",
+    "question": "Who was the first President of the United States?",
     "answers": [
-      "Lion",
-      "Tiger",
-      "Hippopotamus",
-      "Crocodile"
+      "Thomas Jefferson",
+      "Abraham Lincoln",
+      "George Washington",
+      "John Adams"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which history is the largest species of cat?",
+    "question": "In which year did World War II end?",
     "answers": [
-      "Leopard",
-      "Cheetah",
-      "Lion",
-      "Tiger"
+      "1940",
+      "1945",
+      "1939",
+      "1950"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which empire was ruled by Julius Caesar?",
+    "answers": [
+      "Greek Empire",
+      "Egyptian Empire",
+      "Roman Empire",
+      "Ottoman Empire"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What was the name of the ship on which the Pilgrims traveled to America in 1620?",
+    "answers": [
+      "Santa Maria",
+      "Mayflower",
+      "Endeavour",
+      "Beagle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Who was the British Prime Minister during most of World War II?",
+    "answers": [
+      "Neville Chamberlain",
+      "Winston Churchill",
+      "Tony Blair",
+      "Margaret Thatcher"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What wall divided East and West Berlin until 1989?",
+    "answers": [
+      "The Iron Curtain",
+      "The Cold Wall",
+      "The Berlin Wall",
+      "The Communist Wall"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Who was known as the Maid of Orléans?",
+    "answers": [
+      "Marie Antoinette",
+      "Joan of Arc",
+      "Catherine de Medici",
+      "Queen Elizabeth I"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Cold War was mainly between which two countries?",
+    "answers": [
+      "USA and China",
+      "USA and USSR",
+      "USA and Germany",
+      "USA and Japan"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Where did the Industrial Revolution begin?",
+    "answers": [
+      "France",
+      "Germany",
+      "United States",
+      "United Kingdom"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the fastest land history?",
+    "question": "What was the main language of the Byzantine Empire?",
     "answers": [
-      "Horse",
-      "Ostrich",
-      "Cheetah",
-      "Greyhound"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What history is known for changing its color?",
-    "answers": [
-      "Frog",
-      "Chameleon",
-      "Iguana",
-      "Salamander"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which bird is a symbol of peace?",
-    "answers": [
-      "Swan",
-      "Dove",
-      "Parrot",
-      "Eagle"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is a group of lions called?",
-    "answers": [
-      "Herd",
-      "Pack",
-      "Pride",
-      "Colony"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which history sleeps standing up?",
-    "answers": [
-      "Cow",
-      "Horse",
-      "Elephant",
-      "Dog"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which mammal lays eggs?",
-    "answers": [
-      "Bat",
-      "Otter",
-      "Platypus",
-      "Whale"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the only flying mammal?",
-    "answers": [
-      "Squirrel",
-      "Bat",
-      "Flying Lemur",
-      "None"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the tallest history?",
-    "answers": [
-      "Elephant",
-      "Giraffe",
-      "Camel",
-      "Rhino"
+      "Latin",
+      "Greek",
+      "Arabic",
+      "Turkish"
     ],
     "correctIndex": 1
   }

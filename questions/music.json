@@ -1,102 +1,102 @@
 [
   {
-    "question": "Which mammal is known to have the most powerful bite?",
+    "question": "Which composer became deaf later in life but continued to compose music?",
     "answers": [
-      "Lion",
-      "Tiger",
-      "Hippopotamus",
-      "Crocodile"
+      "Mozart",
+      "Beethoven",
+      "Bach",
+      "Chopin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the speed of a musical piece?",
+    "answers": [
+      "Pitch",
+      "Rhythm",
+      "Tempo",
+      "Harmony"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which music is the largest species of cat?",
+    "question": "Which instrument has keys, pedals, and strings?",
     "answers": [
-      "Leopard",
-      "Cheetah",
-      "Lion",
-      "Tiger"
+      "Guitar",
+      "Piano",
+      "Harp",
+      "Violin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which pop star is known as the 'Queen of Pop'?",
+    "answers": [
+      "Beyoncé",
+      "Madonna",
+      "Lady Gaga",
+      "Taylor Swift"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which music genre originated in the American South and is closely tied to African American history?",
+    "answers": [
+      "Country",
+      "Jazz",
+      "Rock",
+      "Blues"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the fastest land music?",
+    "question": "Which clef is used for higher-pitched instruments like the violin and flute?",
     "answers": [
-      "Horse",
-      "Ostrich",
-      "Cheetah",
-      "Greyhound"
+      "Bass clef",
+      "Treble clef",
+      "Alto clef",
+      "Tenor clef"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the name of the scale with five notes per octave?",
+    "answers": [
+      "Major scale",
+      "Pentatonic scale",
+      "Chromatic scale",
+      "Diatonic scale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which band released the album 'Abbey Road'?",
+    "answers": [
+      "The Beatles",
+      "The Rolling Stones",
+      "Pink Floyd",
+      "Queen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In music notation, what does 'forte' mean?",
+    "answers": [
+      "Soft",
+      "Fast",
+      "Loud",
+      "Slow"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What music is known for changing its color?",
+    "question": "Who is the famous composer of 'The Four Seasons'?",
     "answers": [
-      "Frog",
-      "Chameleon",
-      "Iguana",
-      "Salamander"
+      "Vivaldi",
+      "Mozart",
+      "Handel",
+      "Haydn"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which bird is a symbol of peace?",
-    "answers": [
-      "Swan",
-      "Dove",
-      "Parrot",
-      "Eagle"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is a group of lions called?",
-    "answers": [
-      "Herd",
-      "Pack",
-      "Pride",
-      "Colony"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which music sleeps standing up?",
-    "answers": [
-      "Cow",
-      "Horse",
-      "Elephant",
-      "Dog"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which mammal lays eggs?",
-    "answers": [
-      "Bat",
-      "Otter",
-      "Platypus",
-      "Whale"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the only flying mammal?",
-    "answers": [
-      "Squirrel",
-      "Bat",
-      "Flying Lemur",
-      "None"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the tallest music?",
-    "answers": [
-      "Elephant",
-      "Giraffe",
-      "Camel",
-      "Rhino"
-    ],
-    "correctIndex": 1
+    "correctIndex": 0
   }
 ]

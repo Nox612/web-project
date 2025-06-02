@@ -1,102 +1,102 @@
 [
   {
-    "question": "Which mammal is known to have the most powerful bite?",
+    "question": "What is the largest organ in the human body?",
     "answers": [
-      "Lion",
-      "Tiger",
-      "Hippopotamus",
-      "Crocodile"
+      "Liver",
+      "Brain",
+      "Skin",
+      "Heart"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which medicine is the largest species of cat?",
+    "question": "Which vitamin is produced when the skin is exposed to sunlight?",
     "answers": [
-      "Leopard",
-      "Cheetah",
-      "Lion",
-      "Tiger"
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the fastest land medicine?",
+    "question": "What is the medical term for high blood pressure?",
     "answers": [
-      "Horse",
-      "Ostrich",
-      "Cheetah",
-      "Greyhound"
+      "Hypotension",
+      "Hypertension",
+      "Hyperglycemia",
+      "Hypoglycemia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which part of the brain controls balance?",
+    "answers": [
+      "Cerebrum",
+      "Medulla",
+      "Cerebellum",
+      "Thalamus"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What medicine is known for changing its color?",
+    "question": "What does 'CPR' stand for?",
     "answers": [
-      "Frog",
-      "Chameleon",
-      "Iguana",
-      "Salamander"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which bird is a symbol of peace?",
-    "answers": [
-      "Swan",
-      "Dove",
-      "Parrot",
-      "Eagle"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is a group of lions called?",
-    "answers": [
-      "Herd",
-      "Pack",
-      "Pride",
-      "Colony"
+      "Cardio Pulmonary Rescue",
+      "Circulatory Pressure Response",
+      "Cardiopulmonary Resuscitation",
+      "Central Pulse Recovery"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which medicine sleeps standing up?",
+    "question": "Which blood type is known as the universal donor?",
     "answers": [
-      "Cow",
-      "Horse",
-      "Elephant",
-      "Dog"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which mammal lays eggs?",
-    "answers": [
-      "Bat",
-      "Otter",
-      "Platypus",
-      "Whale"
+      "O+",
+      "AB+",
+      "O-",
+      "A-"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the only flying mammal?",
+    "question": "What is insulin used to treat?",
     "answers": [
-      "Squirrel",
-      "Bat",
-      "Flying Lemur",
-      "None"
+      "Asthma",
+      "Hypertension",
+      "Diabetes",
+      "Arthritis"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "What is the tallest medicine?",
+    "question": "What is the medical term for red blood cells?",
     "answers": [
-      "Elephant",
-      "Giraffe",
-      "Camel",
-      "Rhino"
+      "Leukocytes",
+      "Thrombocytes",
+      "Erythrocytes",
+      "Lymphocytes"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
+  },
+  {
+    "question": "What disease is caused by the human immunodeficiency virus (HIV)?",
+    "answers": [
+      "AIDS",
+      "SARS",
+      "Tuberculosis",
+      "Hepatitis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which part of the body does hepatitis affect?",
+    "answers": [
+      "Liver",
+      "Kidney",
+      "Heart",
+      "Lung"
+    ],
+    "correctIndex": 0
   }
 ]

@@ -1,102 +1,102 @@
 [
   {
-    "question": "Which mammal is known to have the most powerful bite?",
+    "question": "What is the basic problem of economics?",
     "answers": [
-      "Lion",
-      "Tiger",
-      "Hippopotamus",
-      "Crocodile"
+      "Inflation",
+      "Scarcity",
+      "Taxes",
+      "Globalization"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "question": "Which economic is the largest species of cat?",
+    "question": "What does GDP stand for?",
     "answers": [
-      "Leopard",
-      "Cheetah",
-      "Lion",
-      "Tiger"
+      "Gross Domestic Product",
+      "Global Development Plan",
+      "General Debt Position",
+      "Government Development Policy"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Who is considered the father of modern economics?",
+    "answers": [
+      "Karl Marx",
+      "John Maynard Keynes",
+      "Milton Friedman",
+      "Adam Smith"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the fastest land economic?",
+    "question": "What type of market has only one seller?",
     "answers": [
-      "Horse",
-      "Ostrich",
-      "Cheetah",
-      "Greyhound"
+      "Oligopoly",
+      "Monopoly",
+      "Perfect competition",
+      "Monopsony"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is inflation?",
+    "answers": [
+      "Increase in money supply",
+      "Rise in unemployment",
+      "General increase in prices",
+      "Fall in interest rates"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What economic is known for changing its color?",
+    "question": "What is the law of demand?",
     "answers": [
-      "Frog",
-      "Chameleon",
-      "Iguana",
-      "Salamander"
+      "When prices fall, demand increases",
+      "When income increases, demand decreases",
+      "Demand remains constant regardless of price",
+      "When prices rise, demand increases"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which organization monitors global economic stability?",
+    "answers": [
+      "WTO",
+      "IMF",
+      "UNESCO",
+      "OPEC"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which bird is a symbol of peace?",
+    "question": "What does a budget deficit mean?",
     "answers": [
-      "Swan",
-      "Dove",
-      "Parrot",
-      "Eagle"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is a group of lions called?",
-    "answers": [
-      "Herd",
-      "Pack",
-      "Pride",
-      "Colony"
+      "Exports exceed imports",
+      "Income is higher than spending",
+      "Spending exceeds income",
+      "Taxes are too high"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which economic sleeps standing up?",
+    "question": "What is the main goal of a central bank?",
     "answers": [
-      "Cow",
-      "Horse",
-      "Elephant",
-      "Dog"
+      "Increase public spending",
+      "Manage inflation and stabilize currency",
+      "Print money for the government",
+      "Control stock markets"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which mammal lays eggs?",
+    "question": "Which economic system is based on supply and demand with little government control?",
     "answers": [
-      "Bat",
-      "Otter",
-      "Platypus",
-      "Whale"
+      "Command economy",
+      "Traditional economy",
+      "Mixed economy",
+      "Market economy"
     ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the only flying mammal?",
-    "answers": [
-      "Squirrel",
-      "Bat",
-      "Flying Lemur",
-      "None"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the tallest economic?",
-    "answers": [
-      "Elephant",
-      "Giraffe",
-      "Camel",
-      "Rhino"
-    ],
-    "correctIndex": 1
+    "correctIndex": 3
   }
 ]

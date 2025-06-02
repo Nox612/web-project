@@ -1,102 +1,102 @@
 [
   {
-    "question": "Which mammal is known to have the most powerful bite?",
+    "question": "What is the main function of the legislative branch of government?",
     "answers": [
-      "Lion",
-      "Tiger",
-      "Hippopotamus",
-      "Crocodile"
+      "Enforce laws",
+      "Interpret laws",
+      "Make laws",
+      "Elect the president"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which politic is the largest species of cat?",
+    "question": "Which political ideology advocates for minimal government intervention in the economy?",
     "answers": [
-      "Leopard",
-      "Cheetah",
-      "Lion",
-      "Tiger"
+      "Liberalism",
+      "Communism",
+      "Libertarianism",
+      "Socialism"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Who was the first female Prime Minister of the United Kingdom?",
+    "answers": [
+      "Elizabeth II",
+      "Theresa May",
+      "Margaret Thatcher",
+      "Angela Merkel"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for a government ruled by a single person with absolute power?",
+    "answers": [
+      "Oligarchy",
+      "Democracy",
+      "Republic",
+      "Autocracy"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the fastest land politic?",
+    "question": "In the United States, how many senators are there in total?",
     "answers": [
-      "Horse",
-      "Ostrich",
-      "Cheetah",
-      "Greyhound"
+      "50",
+      "100",
+      "435",
+      "535"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which political document begins with 'We the People'?",
+    "answers": [
+      "Declaration of Independence",
+      "U.S. Constitution",
+      "Magna Carta",
+      "Bill of Rights"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term limit for a U.S. president?",
+    "answers": [
+      "4 years",
+      "2 terms",
+      "Unlimited",
+      "3 terms"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which organization promotes international cooperation and peacekeeping?",
+    "answers": [
+      "NATO",
+      "World Bank",
+      "UN",
+      "IMF"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What politic is known for changing its color?",
+    "question": "What is gerrymandering?",
     "answers": [
-      "Frog",
-      "Chameleon",
-      "Iguana",
-      "Salamander"
+      "Voter fraud",
+      "Drawing voting districts to favor one party",
+      "Election interference",
+      "A type of political debate"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which bird is a symbol of peace?",
+    "question": "Who leads the executive branch in a parliamentary system?",
     "answers": [
-      "Swan",
-      "Dove",
-      "Parrot",
-      "Eagle"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is a group of lions called?",
-    "answers": [
-      "Herd",
-      "Pack",
-      "Pride",
-      "Colony"
+      "President",
+      "Senator",
+      "Prime Minister",
+      "Governor"
     ],
     "correctIndex": 2
-  },
-  {
-    "question": "Which politic sleeps standing up?",
-    "answers": [
-      "Cow",
-      "Horse",
-      "Elephant",
-      "Dog"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which mammal lays eggs?",
-    "answers": [
-      "Bat",
-      "Otter",
-      "Platypus",
-      "Whale"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the only flying mammal?",
-    "answers": [
-      "Squirrel",
-      "Bat",
-      "Flying Lemur",
-      "None"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the tallest politic?",
-    "answers": [
-      "Elephant",
-      "Giraffe",
-      "Camel",
-      "Rhino"
-    ],
-    "correctIndex": 1
   }
 ]

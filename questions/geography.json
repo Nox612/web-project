@@ -1,102 +1,102 @@
 [
   {
-    "question": "Which mammal is known to have the most powerful bite?",
+    "question": "What is the longest river in the world?",
     "answers": [
-      "Lion",
-      "Tiger",
-      "Hippopotamus",
-      "Crocodile"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which geography is the largest species of cat?",
-    "answers": [
-      "Leopard",
-      "Cheetah",
-      "Lion",
-      "Tiger"
+      "Amazon River",
+      "Yangtze River",
+      "Mississippi River",
+      "Nile River"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the fastest land geography?",
+    "question": "Which is the largest continent by area?",
     "answers": [
-      "Horse",
-      "Ostrich",
-      "Cheetah",
-      "Greyhound"
+      "Africa",
+      "Asia",
+      "North America",
+      "Europe"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Mount Everest is located in which mountain range?",
+    "answers": [
+      "Andes",
+      "Alps",
+      "Himalayas",
+      "Rockies"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What geography is known for changing its color?",
+    "question": "Which country has the most natural lakes?",
     "answers": [
-      "Frog",
-      "Chameleon",
-      "Iguana",
-      "Salamander"
+      "Russia",
+      "Canada",
+      "United States",
+      "Brazil"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which bird is a symbol of peace?",
+    "question": "What is the capital city of Australia?",
     "answers": [
-      "Swan",
-      "Dove",
-      "Parrot",
-      "Eagle"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is a group of lions called?",
-    "answers": [
-      "Herd",
-      "Pack",
-      "Pride",
-      "Colony"
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Brisbane"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which geography sleeps standing up?",
+    "question": "Which desert is the largest in the world?",
     "answers": [
-      "Cow",
-      "Horse",
-      "Elephant",
-      "Dog"
+      "Gobi Desert",
+      "Arctic Desert",
+      "Sahara Desert",
+      "Antarctic Desert"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which mammal lays eggs?",
+    "question": "Which ocean is the deepest?",
     "answers": [
-      "Bat",
-      "Otter",
-      "Platypus",
-      "Whale"
+      "Indian Ocean",
+      "Atlantic Ocean",
+      "Southern Ocean",
+      "Pacific Ocean"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which U.S. state has the most volcanoes?",
+    "answers": [
+      "California",
+      "Washington",
+      "Alaska",
+      "Hawaii"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the only flying mammal?",
+    "question": "Which country is both in Europe and Asia?",
     "answers": [
-      "Squirrel",
-      "Bat",
-      "Flying Lemur",
-      "None"
+      "Greece",
+      "Kazakhstan",
+      "Turkey",
+      "Georgia"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "What is the tallest geography?",
+    "question": "What is the smallest country in the world by area?",
     "answers": [
-      "Elephant",
-      "Giraffe",
-      "Camel",
-      "Rhino"
+      "Monaco",
+      "San Marino",
+      "Vatican City",
+      "Liechtenstein"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   }
 ]

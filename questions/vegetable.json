@@ -1,102 +1,102 @@
 [
   {
-    "question": "Which mammal is known to have the most powerful bite?",
+    "question": "Which part of the plant is a carrot?",
     "answers": [
-      "Lion",
-      "Tiger",
-      "Hippopotamus",
-      "Crocodile"
+      "Leaf",
+      "Root",
+      "Stem",
+      "Fruit"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which vegetable is known for making your eyes water when cut?",
+    "answers": [
+      "Garlic",
+      "Onion",
+      "Leek",
+      "Radish"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which vegetable is technically a flower?",
+    "answers": [
+      "Broccoli",
+      "Carrot",
+      "Spinach",
+      "Celery"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which vitamin is most abundant in carrots?",
+    "answers": [
+      "Vitamin C",
+      "Vitamin B12",
+      "Vitamin A",
+      "Vitamin D"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which vegetable is the largest species of cat?",
+    "question": "Which green vegetable is known for being high in iron?",
     "answers": [
-      "Leopard",
-      "Cheetah",
-      "Lion",
-      "Tiger"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the fastest land vegetable?",
-    "answers": [
-      "Horse",
-      "Ostrich",
-      "Cheetah",
-      "Greyhound"
+      "Lettuce",
+      "Cucumber",
+      "Spinach",
+      "Zucchini"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What vegetable is known for changing its color?",
+    "question": "Which of these is a legume but often considered a vegetable?",
     "answers": [
-      "Frog",
-      "Chameleon",
-      "Iguana",
-      "Salamander"
+      "Peas",
+      "Potatoes",
+      "Tomatoes",
+      "Carrots"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "Which bird is a symbol of peace?",
+    "question": "What vegetable is known for its strong smell and is often fermented into kimchi?",
     "answers": [
-      "Swan",
-      "Dove",
-      "Parrot",
-      "Eagle"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is a group of lions called?",
-    "answers": [
-      "Herd",
-      "Pack",
-      "Pride",
-      "Colony"
+      "Turnip",
+      "Kale",
+      "Cabbage",
+      "Parsnip"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which vegetable sleeps standing up?",
+    "question": "Which vegetable has varieties called bell, chili, and jalapeño?",
     "answers": [
-      "Cow",
-      "Horse",
-      "Elephant",
-      "Dog"
+      "Tomato",
+      "Pepper",
+      "Cucumber",
+      "Radish"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which mammal lays eggs?",
+    "question": "Which vegetable is commonly used to make pickles?",
     "answers": [
-      "Bat",
-      "Otter",
-      "Platypus",
-      "Whale"
+      "Zucchini",
+      "Eggplant",
+      "Cucumber",
+      "Spinach"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the only flying mammal?",
+    "question": "Which of these vegetables grows underground?",
     "answers": [
-      "Squirrel",
-      "Bat",
-      "Flying Lemur",
-      "None"
+      "Broccoli",
+      "Cauliflower",
+      "Beetroot",
+      "Lettuce"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the tallest vegetable?",
-    "answers": [
-      "Elephant",
-      "Giraffe",
-      "Camel",
-      "Rhino"
-    ],
-    "correctIndex": 1
+    "correctIndex": 2
   }
 ]

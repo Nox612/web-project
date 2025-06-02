@@ -1,101 +1,101 @@
 [
   {
-    "question": "Which mammal is known to have the most powerful bite?",
+    "question": "Who painted the Mona Lisa?",
     "answers": [
-      "Lion",
-      "Tiger",
-      "Hippopotamus",
-      "Crocodile"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which art is the largest species of cat?",
-    "answers": [
-      "Leopard",
-      "Cheetah",
-      "Lion",
-      "Tiger"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the fastest land art?",
-    "answers": [
-      "Horse",
-      "Ostrich",
-      "Cheetah",
-      "Greyhound"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What art is known for changing its color?",
-    "answers": [
-      "Frog",
-      "Chameleon",
-      "Iguana",
-      "Salamander"
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Vincent van Gogh",
+      "Michelangelo"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which bird is a symbol of peace?",
+    "question": "What art movement is Salvador Dalí associated with?",
     "answers": [
-      "Swan",
-      "Dove",
-      "Parrot",
-      "Eagle"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is a group of lions called?",
-    "answers": [
-      "Herd",
-      "Pack",
-      "Pride",
-      "Colony"
+      "Cubism",
+      "Impressionism",
+      "Surrealism",
+      "Expressionism"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which art sleeps standing up?",
+    "question": "Which museum houses the Mona Lisa?",
     "answers": [
-      "Cow",
-      "Horse",
-      "Elephant",
-      "Dog"
+      "The British Museum",
+      "The Louvre",
+      "The Met",
+      "The Prado"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which mammal lays eggs?",
+    "question": "What is the primary medium used in fresco painting?",
     "answers": [
-      "Bat",
-      "Otter",
-      "Platypus",
-      "Whale"
+      "Canvas",
+      "Wood",
+      "Wet plaster",
+      "Paper"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the only flying mammal?",
+    "question": "Which artist is famous for cutting up canvases?",
     "answers": [
-      "Squirrel",
-      "Bat",
-      "Flying Lemur",
-      "None"
+      "Yayoi Kusama",
+      "Lucio Fontana",
+      "Frida Kahlo",
+      "Henri Matisse"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the tallest art?",
+    "question": "What is the term for a painting of inanimate objects?",
     "answers": [
-      "Elephant",
-      "Giraffe",
-      "Camel",
-      "Rhino"
+      "Portrait",
+      "Landscape",
+      "Still life",
+      "Abstract"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of these artists is associated with Pop Art?",
+    "answers": [
+      "Claude Monet",
+      "Andy Warhol",
+      "Jackson Pollock",
+      "Georgia O’Keeffe"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What country is the origin of Ukiyo-e art?",
+    "answers": [
+      "China",
+      "Japan",
+      "Korea",
+      "Thailand"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which artist is known for the painting 'Starry Night'?",
+    "answers": [
+      "Claude Monet",
+      "Pablo Picasso",
+      "Vincent van Gogh",
+      "Paul Cézanne"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the term 'impasto' refer to in painting?",
+    "answers": [
+      "A type of brush",
+      "Thick paint application",
+      "A painting style",
+      "A type of pigment"
     ],
     "correctIndex": 1
   }

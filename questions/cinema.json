@@ -1,101 +1,101 @@
 [
   {
-    "question": "Which mammal is known to have the most powerful bite?",
+    "question": "Who directed the movie 'Inception'?",
     "answers": [
-      "Lion",
-      "Tiger",
-      "Hippopotamus",
-      "Crocodile"
+      "Steven Spielberg",
+      "Christopher Nolan",
+      "James Cameron",
+      "Quentin Tarantino"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which movie won the Oscar for Best Picture in 1994?",
+    "answers": [
+      "Pulp Fiction",
+      "The Shawshank Redemption",
+      "Forrest Gump",
+      "Four Weddings and a Funeral"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which cinema is the largest species of cat?",
+    "question": "Which actor played Jack in 'Titanic'?",
     "answers": [
-      "Leopard",
-      "Cheetah",
-      "Lion",
-      "Tiger"
+      "Matt Damon",
+      "Brad Pitt",
+      "Leonardo DiCaprio",
+      "Johnny Depp"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the highest-grossing film of all time (unadjusted)?",
+    "answers": [
+      "Titanic",
+      "Avengers: Endgame",
+      "Avatar",
+      "The Lion King (2019)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which film features the quote: 'Here's looking at you, kid'?",
+    "answers": [
+      "Gone with the Wind",
+      "Casablanca",
+      "Citizen Kane",
+      "The Godfather"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Who composed the score for 'Star Wars'?",
+    "answers": [
+      "Hans Zimmer",
+      "Danny Elfman",
+      "James Horner",
+      "John Williams"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the fastest land cinema?",
+    "question": "Which actress played Hermione in the 'Harry Potter' series?",
     "answers": [
-      "Horse",
-      "Ostrich",
-      "Cheetah",
-      "Greyhound"
+      "Emma Stone",
+      "Emma Watson",
+      "Natalie Portman",
+      "Keira Knightley"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which country hosts the Cannes Film Festival?",
+    "answers": [
+      "Italy",
+      "France",
+      "USA",
+      "Spain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What genre is the film 'The Shining'?",
+    "answers": [
+      "Comedy",
+      "Drama",
+      "Horror",
+      "Sci-Fi"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What cinema is known for changing its color?",
+    "question": "Which film is known for the line: 'I'm going to make him an offer he can't refuse'?",
     "answers": [
-      "Frog",
-      "Chameleon",
-      "Iguana",
-      "Salamander"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which bird is a symbol of peace?",
-    "answers": [
-      "Swan",
-      "Dove",
-      "Parrot",
-      "Eagle"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is a group of lions called?",
-    "answers": [
-      "Herd",
-      "Pack",
-      "Pride",
-      "Colony"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which cinema sleeps standing up?",
-    "answers": [
-      "Cow",
-      "Horse",
-      "Elephant",
-      "Dog"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which mammal lays eggs?",
-    "answers": [
-      "Bat",
-      "Otter",
-      "Platypus",
-      "Whale"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the only flying mammal?",
-    "answers": [
-      "Squirrel",
-      "Bat",
-      "Flying Lemur",
-      "None"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the tallest cinema?",
-    "answers": [
-      "Elephant",
-      "Giraffe",
-      "Camel",
-      "Rhino"
+      "Scarface",
+      "The Godfather",
+      "Goodfellas",
+      "The Sopranos"
     ],
     "correctIndex": 1
   }

@@ -36,12 +36,15 @@ window.addEventListener("DOMContentLoaded", async () => {
                             <div class="header-bar">
                                 <p class="header-title">Queezie</p>
                                 <nav>
-                                    <a href="./home.html">Home</a>
-                                    <a href="./about.html">About</a>
+                                    <a href=./home.html>Home</a>
+                                    <a href=./quizPage.html> Quiz</a>
+                                    <a href=./wiki.html>Wiki</a>
+                                    <a href=./login.html>Login</a>
+                                    <a href=./about.html>About</a>
                                 </nav>
                             </div>
-                            <h1>Quiz terminé !</h1>
-                            <p>Votre score : ${score}/${questions.length}</p>
+                            <h1>Quiz finished !</h1>
+                            <p>Your score : ${score}/${questions.length}</p>
                         `;
                     }
                 };
