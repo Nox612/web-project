@@ -10,12 +10,12 @@
 <body class="quizz-container">
     <div class="header-bar">       
         <p class="header-title">Queezie</p>
-        <nav>
+        <nav class="nav-links">
             <a href="./home.html">Home</a>
-                <a href="./quizPage.html">Quiz</a>
-                <a href="./wiki.html">Wiki</a>
-                <a href="./login.html">Login</a>
-                <a href="./about.html">About</a>
+            <a href="./quizPage.html">Quiz</a>
+            <a href="./wiki.html">Wiki</a>
+            <a href="./login.html">Login</a>
+            <a href="./about.html">About</a>
         </nav>
         <p class="header-info">Anthony Varela Louis Demoy</p>
     </div>
@@ -25,14 +25,17 @@
         <p id="question-count">Question 1/10</p>
     </div>
 
-    <h1 id="question">Question</h1>
-    <div class="proportional-square">Image related to question</div>
-    <br>
-    <div class="buttons">
-        <button class="button" id="button1">Réponse 1</button>
-        <button class="button" id="button2">Réponse 2</button>
-        <button class="button" id="button3">Réponse 3</button>
-        <button class="button" id="button4">Réponse 4</button>
+    <div class="quiz-content">
+        <div class="question-and-buttons">
+            <h1 id="question">Question</h1>
+            <div class="buttons">
+                <button class="button" id="button1">Réponse 1</button>
+                <button class="button" id="button2">Réponse 2</button>
+                <button class="button" id="button3">Réponse 3</button>
+                <button class="button" id="button4">Réponse 4</button>
+            </div>
+        </div>
+        <div class="proportional-square">Image related to question</div>
     </div>
 
     <script src="../js/quizz.js"></script>
